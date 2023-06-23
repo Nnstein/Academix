@@ -4,5 +4,5 @@ pydantic==1.9.0
 streamlit==1.23.1
 uvicorn==0.22.0
 openai==0.27.8
-# langchain==0.0.196
-langchainplus-sdk==0.0.8
+langchain
+langchainplus-sdk
