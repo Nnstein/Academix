@@ -5,4 +5,4 @@ streamlit==1.23.1
 uvicorn==0.22.0
 openai==0.27.8
 langchain
-langchainplus-sdk
+# langchainplus-sdk
