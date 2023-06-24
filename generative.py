@@ -23,6 +23,11 @@ from langchain.prompts import PromptTemplate
 from langchain.chains import LLMChain, SequentialChain, SimpleSequentialChain
 from langchain.memory import ConversationBufferMemory
 
+# new ones
+
+
+
+
 
 def generate(prompt):
     """Generates a prompt chat response from the given prompt.
