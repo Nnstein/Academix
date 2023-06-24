@@ -4,6 +4,6 @@ pydantic==1.9.0
 streamlit==1.23.1
 uvicorn==0.22.0
 openai==0.27.8
-langchain==0.0.212
+langchain==0.0.100s
 langcodes
 libclang==16.0.0
